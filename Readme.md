@@ -1,0 +1,3 @@
+### Welcome
+ -to run this app, download it, and open terminal, type "python filename"
+-this should prompt you for min, max....
